@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Exam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <studentName>Денис</studentName>
+  <numOfCountExamsOnSession>5</numOfCountExamsOnSession>
+  <nameSubject>Теория вероятности и математическая статистика</nameSubject>
+  <numberOfQuestions>2</numberOfQuestions>
+</Exam>

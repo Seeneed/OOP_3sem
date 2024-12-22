@@ -1,0 +1,17 @@
+D:\Денис\3 сем\ООП\laba13\laba13\bin\Debug\net8.0\laba13.exe
+D:\Денис\3 сем\ООП\laba13\laba13\bin\Debug\net8.0\laba13.deps.json
+D:\Денис\3 сем\ООП\laba13\laba13\bin\Debug\net8.0\laba13.runtimeconfig.json
+D:\Денис\3 сем\ООП\laba13\laba13\bin\Debug\net8.0\laba13.dll
+D:\Денис\3 сем\ООП\laba13\laba13\bin\Debug\net8.0\laba13.pdb
+D:\Денис\3 сем\ООП\laba13\laba13\bin\Debug\net8.0\SoapFormatter.dll
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.csproj.AssemblyReference.cache
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.AssemblyInfoInputs.cache
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.AssemblyInfo.cs
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.csproj.CoreCompileInputs.cache
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.csproj.CopyComplete
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.dll
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\refint\laba13.dll
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.pdb
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\laba13.genruntimeconfig.cache
+D:\Денис\3 сем\ООП\laba13\laba13\obj\Debug\net8.0\ref\laba13.dll

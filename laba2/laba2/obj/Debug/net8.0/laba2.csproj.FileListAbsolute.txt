@@ -1,0 +1,14 @@
+D:\Денис\3 сем\ООП\laba2\laba2\bin\Debug\net8.0\laba2.exe
+D:\Денис\3 сем\ООП\laba2\laba2\bin\Debug\net8.0\laba2.deps.json
+D:\Денис\3 сем\ООП\laba2\laba2\bin\Debug\net8.0\laba2.runtimeconfig.json
+D:\Денис\3 сем\ООП\laba2\laba2\bin\Debug\net8.0\laba2.dll
+D:\Денис\3 сем\ООП\laba2\laba2\bin\Debug\net8.0\laba2.pdb
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.AssemblyInfoInputs.cache
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.AssemblyInfo.cs
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.csproj.CoreCompileInputs.cache
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.dll
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\refint\laba2.dll
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.pdb
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\laba2.genruntimeconfig.cache
+D:\Денис\3 сем\ООП\laba2\laba2\obj\Debug\net8.0\ref\laba2.dll

@@ -1,0 +1,14 @@
+D:\Денис\3 сем\ООП\laba8\laba8\bin\Debug\net8.0\laba8.exe
+D:\Денис\3 сем\ООП\laba8\laba8\bin\Debug\net8.0\laba8.deps.json
+D:\Денис\3 сем\ООП\laba8\laba8\bin\Debug\net8.0\laba8.runtimeconfig.json
+D:\Денис\3 сем\ООП\laba8\laba8\bin\Debug\net8.0\laba8.dll
+D:\Денис\3 сем\ООП\laba8\laba8\bin\Debug\net8.0\laba8.pdb
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.AssemblyInfoInputs.cache
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.AssemblyInfo.cs
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.csproj.CoreCompileInputs.cache
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.dll
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\refint\laba8.dll
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.pdb
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\laba8.genruntimeconfig.cache
+D:\Денис\3 сем\ООП\laba8\laba8\obj\Debug\net8.0\ref\laba8.dll

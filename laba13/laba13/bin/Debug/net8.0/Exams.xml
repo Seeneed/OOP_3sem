@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exams>
+  <Exam>
+    <StudentName>Денис</StudentName>
+    <Subject>Теория вероятности</Subject>
+    <NumberOfQuestions>2</NumberOfQuestions>
+  </Exam>
+  <Exam>
+    <StudentName>Даниил</StudentName>
+    <Subject>КПО</Subject>
+    <NumberOfQuestions>3</NumberOfQuestions>
+  </Exam>
+  <Exam>
+    <StudentName>Кирилл</StudentName>
+    <Subject>АиСД</Subject>
+    <NumberOfQuestions>4</NumberOfQuestions>
+  </Exam>
+  <Exam>
+    <StudentName>Влад</StudentName>
+    <Subject>КСиС</Subject>
+    <NumberOfQuestions>2</NumberOfQuestions>
+  </Exam>
+</Exams>

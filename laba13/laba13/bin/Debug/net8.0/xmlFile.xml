@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exam>
+    <studentName>Даниил</studentName>
+    <numOfCountExamsOnSession>5</numOfCountExamsOnSession>
+    <nameSubject>КПО</nameSubject>
+    <numberOfQuestions>2</numberOfQuestions>
+  </Exam>
+  <Exam>
+    <studentName>Кирилл</studentName>
+    <numOfCountExamsOnSession>5</numOfCountExamsOnSession>
+    <nameSubject>АиСД</nameSubject>
+    <numberOfQuestions>3</numberOfQuestions>
+  </Exam>
+  <Exam>
+    <studentName>Влад</studentName>
+    <numOfCountExamsOnSession>5</numOfCountExamsOnSession>
+    <nameSubject>КСиС</nameSubject>
+    <numberOfQuestions>2</numberOfQuestions>
+  </Exam>
+</ArrayOfExam>
